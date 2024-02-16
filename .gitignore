@@ -1,0 +1,13 @@
+# Dependências
+/node_modules
+
+# Arquivos de ambiente
+.env
+
+# Build
+/client/build
+
+# Arquivos e diretórios temporários
+.DS_Store
+/tmp
+/log
